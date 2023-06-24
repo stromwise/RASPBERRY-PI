@@ -1,14 +1,3 @@
-____________________________________________________________________________________________________________________________________________
-_____   TTTTTTTT  RRRRRR     OOOO    MMM   MMM      W             W   IIII    SSSSS   EEEEEEE
-
-__         TT     RR   RR   OO  OO   MMMM MMMM      W             W    II     SS      EE
-
-_____      TT     RRRRRR   OO    OO  MM MMM MM       W   W   W   W     II     SSSSS   EEEEE
-
-   __      TT     RR  RR   OO    OO  MM  M  MM        W W  W W  W      II        SS   EE
-
-_____      TT     RR   RR    OOOO    MM     MM         W   W   W      IIII   SSSSSS   EEEEEEE
-___________________________________________________________________________________________________________________________________________
 ▶ Name: StromWise
 ▶ Role: Creator
 ▶ Location: Unknown
