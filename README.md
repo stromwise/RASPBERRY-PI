@@ -1,13 +1,13 @@
 ____________________________________________________________________________________________________________________________________________
-SSSSS   TTTTTTTT  RRRRRR     OOOO    MMM   MMM      W             W   IIII    SSSSS   EEEEEEE
+_____   TTTTTTTT  RRRRRR     OOOO    MMM   MMM      W             W   IIII    SSSSS   EEEEEEE
 
-SS         TT     RR   RR   OO  OO   MMMM MMMM      W             W    II     SS      EE
+__         TT     RR   RR   OO  OO   MMMM MMMM      W             W    II     SS      EE
 
-SSSSS      TT     RRRRRR   OO    OO  MM MMM MM       W   W   W   W     II     SSSSS   EEEEE
+_____      TT     RRRRRR   OO    OO  MM MMM MM       W   W   W   W     II     SSSSS   EEEEE
 
-   SS      TT     RR  RR   OO    OO  MM  M  MM        W W  W W  W      II        SS   EE
+   __      TT     RR  RR   OO    OO  MM  M  MM        W W  W W  W      II        SS   EE
 
-SSSSS      TT     RR   RR    OOOO    MM     MM         W   W   W      IIII   SSSSSS   EEEEEEE
+_____      TT     RR   RR    OOOO    MM     MM         W   W   W      IIII   SSSSSS   EEEEEEE
 ___________________________________________________________________________________________________________________________________________
 ▶ Name: StromWise
 ▶ Role: Creator
